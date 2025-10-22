@@ -264,11 +264,3 @@ After running the complete pipeline, you'll get:
 1. **Faster Training**: Use smaller vocabulary for initial experiments
 2. **Better Results**: Tune hyperparameters more extensively
 3. **Memory Efficiency**: Use sparse data structures for large vocabularies
-
-## License
-
-This project is created for educational purposes as part of an NLP assignment.
-
-## Contact
-
-For questions or issues, please refer to the code comments or create an issue in the project repository.
